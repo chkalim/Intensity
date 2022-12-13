@@ -6,4 +6,7 @@ ERA 5 data for (u,v,r,t) in form of  3X3 grid and 37 isobaric plans can be downl
 
 given python file   spatial_data_extraction.py can also be used to extract spatial Data.
 
+processed spatial data can also be downloaded from
+https://drive.google.com/drive/folders/1c65G2ZteK_fZqmazIGDGaW9Ki0C7mHSy
+
 after pre-procesisng the spatial data TC_intensity_ST.ipynb can be used for TC intensity prediction.
